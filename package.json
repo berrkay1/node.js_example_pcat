@@ -1,0 +1,23 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "\"# node.js_example_pcat\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berrkay1/node.js_example_pcat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/berrkay1/node.js_example_pcat/issues"
+  },
+  "homepage": "https://github.com/berrkay1/node.js_example_pcat#readme",
+  "devDependencies": {
+    "prettier": "2.7.1"
+  }
+}
