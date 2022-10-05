@@ -4,7 +4,8 @@
   "description": "\"# node.js_example_pcat\"",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -18,6 +19,10 @@
   },
   "homepage": "https://github.com/berrkay1/node.js_example_pcat#readme",
   "devDependencies": {
+    "nodemon": "^2.0.20",
     "prettier": "2.7.1"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
   }
 }
